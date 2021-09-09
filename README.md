@@ -6,6 +6,7 @@ Predicting ICU mortality rates from the [Medical Information Mart for Intensive 
 The PDF and attached code aims to showcase some of the prediction and data science work done within the MSc Business Analytics course.
 
 ## About the Dataset
+The MIMIC III dataset is a rich healthcare dataset collected from the critical care units from the Beth Israel Deaconess Medical Center in Boston, Massachusetts between 2001 and 2012. The database documented features such as demographics and vital sign measurements for 53,423 hospital admissions for 38,597 patients of 16 and over. 
 
 ## Installation
 
@@ -24,8 +25,9 @@ pip install collections
 ```
 ## Credits
 
-This project could not have been successful without my teammates, Knud, Jean-Luc, Jasper and Shang.
+I am extremely grateful for my wonderful teammates, Knud, Jean-Luc, Jasper and Shang for making this project a success.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/florenceyeung/)
+
 [Project Link](https://github.com/florence26/ICU_mortality)
