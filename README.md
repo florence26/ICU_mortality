@@ -23,7 +23,7 @@ pip install scikit-learn
 pip install imblearn
 pip install collections
 ```
-## Credits
+## Acknowledgement
 
 I am extremely grateful for my wonderful teammates, Knud, Jean-Luc, Jasper and Shang for making this project a success.
 
